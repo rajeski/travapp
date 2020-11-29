@@ -1,3 +1,3 @@
 # travapp
 ### Initial project commit
-#### Some of the pending updates will include CSS and HTML files.
+#### As the project evolves, some pending updates will include CSS and HTML files.
